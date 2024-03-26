@@ -1,0 +1,13 @@
+.card {
+    width: 250px;
+    height: 350px;
+    background-color: hsl(0, 0%, 85%);
+    border-radius: 5px;
+    display: inline-block;
+    margin: 10px 20px; 
+}
+
+.name {
+    text-align: center;
+    color: hsl(216, 100%, 45%);
+}
