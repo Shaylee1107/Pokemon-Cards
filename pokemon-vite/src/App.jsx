@@ -8,6 +8,7 @@ import Pokedex from './Pokedex'
 function App() {
   return (
     <>
+    <h1 className="title">Pokdex</h1>
       <Pokecard cards={Pokedex} />
     </>
   )

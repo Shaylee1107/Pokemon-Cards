@@ -4,10 +4,29 @@
     background-color: hsl(0, 0%, 85%);
     border-radius: 5px;
     display: inline-block;
-    margin: 10px 20px; 
+    margin: 10px 55px; 
 }
 
 .name {
     text-align: center;
     color: hsl(216, 100%, 45%);
+}
+
+.img-container {
+    text-align: center;
+}
+
+.img {
+    width: 150px;
+    height: auto;
+}
+
+.stats-container {
+    margin-top: 35px;
+}
+
+.stats {
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
 }
